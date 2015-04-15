@@ -1,0 +1,1 @@
+descripcion del repositorio de <strong>so1</strong>
